@@ -8,23 +8,23 @@ This is a personal smart home app for my Android phone that allows me to control
 
 ### Connected Device Page
 
-![Connected Device Page](https://github.com/itzmk21/Smart-Home/blob/master/screenshots/Connected-Device-Page.png?raw=true)
+![Connected Device Page](https://github.com/itzmk21/Smart-Home/blob/master/screenshots/Connected-Device.png?raw=true)
 
 ### Disconnected Device Page
 
-![Disconnected Device Page](https://github.com/itzmk21/Smart-Home/blob/master/screenshots/Disconnected-Device-Page.png?raw=true)
+![Disconnected Device Page](https://github.com/itzmk21/Smart-Home/blob/master/screenshots/Disconnected-Device.png?raw=true)
 
 ### Smart Light Page
 
-![Smart Light Page](https://github.com/itzmk21/Smart-Home/blob/master/screenshots/Smart-Light-Brightness-Page.png?raw=true)
+![Smart Light Page](https://github.com/itzmk21/Smart-Home/blob/master/screenshots/Smart-Light-Brightness.png?raw=true)
 
 ### Smart Light Temperature Slider
 
-![Smart Light Brightness Slider](https://github.com/itzmk21/Smart-Home/blob/master/screenshots/Smart-Light-Temperature-Page.png?raw=true)
+![Smart Light Brightness Slider](https://github.com/itzmk21/Smart-Home/blob/master/screenshots/Smart-Light-Temperature.png?raw=true)
 
 ### Smart Light Colour Slider
 
-![Smart Light Brightness Slider](https://github.com/itzmk21/Smart-Home/blob/master/screenshots/Smart-Light-Brightness-Page.png?raw=true)
+![Smart Light Colour Slider](https://github.com/itzmk21/Smart-Home/blob/master/screenshots/Smart-Light-Colour.png?raw=true)
 
 ### Themes Page
 
